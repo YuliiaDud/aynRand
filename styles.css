@@ -15,7 +15,7 @@
 }
 
 .dark {
-  background: url("/image/-john-galt-.jpg") no-repeat;
+  background: url("./image/-john-galt-.jpg") no-repeat;
 }
 .cover {
   background: linear-gradient(
